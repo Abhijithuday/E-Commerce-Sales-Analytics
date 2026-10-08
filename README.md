@@ -239,7 +239,7 @@ E-Commerce-Sales-Analytics/
 ├── main project new (3).ipynb
 ├── E-Commerce Sales Analytics.csv
 ├── README.md
-└── images/
+└── images/ppt
     └── dashboard / visualization screenshots
 ```
 
@@ -270,7 +270,7 @@ jupyter notebook
 Open:
 
 ```text
-main project new (3).ipynb
+main project new .ipynb
 ```
 
 Make sure the dataset file is available in the same project folder.
